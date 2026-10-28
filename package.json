@@ -1,0 +1,6 @@
+{
+  "name": "factivo-app",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
